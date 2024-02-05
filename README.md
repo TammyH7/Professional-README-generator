@@ -29,7 +29,7 @@ Create an effective command-line runned application that in-takes a users input 
 ### Link URL: 
 GitHub Repo Link: https://github.com/TammyH7/readme-generator
 
-Walkthrough Video Link: 
+Walkthrough Video Link: https://app.screencastify.com/v3/watch/uCWShoEevnOZ4GRGU5ZC
 
 
 ## Installation Process
